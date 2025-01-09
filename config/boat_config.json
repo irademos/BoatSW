@@ -1,0 +1,5 @@
+{
+    "boat_type": "speedboat",
+    "max_velocity": 10.0,
+    "steering_sensitivity": 1.5
+}
